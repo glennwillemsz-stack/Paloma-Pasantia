@@ -1,0 +1,66 @@
+GUÍA DE CONSTRUCCIÓN — PORTAFOLIO DIGITAL DE PASANTÍA PROFESIONAL
+
+Objetivo:
+Crear el sitio en Google Sites usando esta estructura. Las imágenes de la carpeta IMAGENES/
+son las fotografías extraídas directamente del documento Word original.
+
+ESTRUCTURA RECOMENDADA
+
+1. INICIO
+   - Título: Portafolio Digital de Pasantía Profesional
+   - Nombre: Paloma Beatriz Padilla Abreu
+   - Usar una fotografía profesional como imagen principal.
+
+2. SOBRE MÍ
+   - Presentación personal del documento.
+   - Carrera: Derecho.
+   - Intereses y propósito de la pasantía.
+   - Añadir una fotografía profesional.
+
+3. ACTIVIDADES REALIZADAS
+   - Crear una sección o bloque para cada semana:
+     Semana 1, Semana 2, Semana 3, Semana 4, Semana 5, Semana 6 y Semana 7.
+   - Mantener las actividades y aprendizajes tal como aparecen en el documento.
+
+4. PROCESO DE APRENDIZAJE
+   - Qué resultó más interesante.
+   - Aprendizajes significativos.
+   - Relación entre teoría y práctica.
+   - Experiencia personal.
+
+5. HABILIDADES Y COMPETENCIAS
+   - Observación y atención al detalle.
+   - Responsabilidad.
+   - Organización.
+   - Comunicación.
+   - Capacidad de aprendizaje.
+   - Trabajo en equipo.
+   - Adaptación al entorno profesional.
+   - Aplicación de conocimientos jurídicos.
+
+6. GALERÍA
+   - Crear una galería o varios bloques de imágenes.
+   - Usar las fotos de IMAGENES/.
+   - Colocar debajo de cada foto la descripción/caption correspondiente del documento cuando exista.
+   - Se puede usar un carrusel para grupos de fotos.
+
+7. CONCLUSIÓN
+   - Usar la conclusión del documento.
+   - Mantener las referencias a la fecha de inicio, horario, actividades, aprendizajes,
+     organización, protocolo, ética y relación teoría-práctica.
+
+8. CONTACTO
+   - 202102224@p.uapa.edu.do
+   - Beatrizpadillaabreu09@gmail.com
+
+DISEÑO
+- Mantener un estilo limpio y profesional.
+- Usar una combinación de azul marino, dorado y tonos claros.
+- Mantener títulos consistentes.
+- Priorizar legibilidad.
+- Revisar ortografía antes de publicar.
+
+IMPORTANTE
+- Esta guía no requiere programación.
+- Las fotografías ya están separadas para que puedas subirlas directamente a Google Sites.
+- Si agregas fotografías nuevas en el futuro, puedes subirlas directamente desde Google Sites.
